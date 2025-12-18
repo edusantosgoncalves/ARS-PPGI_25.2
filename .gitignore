@@ -1,3 +1,6 @@
 *networks-barabasi
 *.vscode
 *.idea
+*TFinal2
+**__pycache__/
+*TFinal_old
